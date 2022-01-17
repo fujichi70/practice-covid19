@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fujichi70/practice-covid19/static/css/main.45781c55.css",
+    "main.js": "/fujichi70/practice-covid19/static/js/main.97c458ee.js",
+    "index.html": "/fujichi70/practice-covid19/index.html",
+    "main.45781c55.css.map": "/fujichi70/practice-covid19/static/css/main.45781c55.css.map",
+    "main.97c458ee.js.map": "/fujichi70/practice-covid19/static/js/main.97c458ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45781c55.css",
+    "static/js/main.97c458ee.js"
+  ]
+}
